@@ -2,7 +2,7 @@
 
 A free, browser-based Nightcore converter. No server, no uploads — everything runs locally in your browser.
 
-🔗 **Live site:** [your-username.github.io/nightcore-studio](https://your-username.github.io/nightcore-studio)
+🔗 **Live site:** [NafizAhmed.github.io/nightcore-studio](https://NafizAhmed.github.io/nightcore-studio)
 
 ## Features
 
